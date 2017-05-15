@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b72fc31d-91cb-4753-a6cb-571ea2fcfa5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atualizacaoTabela.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/consultas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exclusaoRegistros.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/incluirDados.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_sqlite.odt" afterPath="$PROJECT_DIR$/python_sqlite.odt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python_sqlite.pdf" afterPath="$PROJECT_DIR$/python_sqlite.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -82,8 +79,8 @@
       <file leaf-file-name="consultas.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consultas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state relative-caret-position="341">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -277,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494882779370</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="atualizacao">
+      <created>1494884244887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1494884244887</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/consultas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="341">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
