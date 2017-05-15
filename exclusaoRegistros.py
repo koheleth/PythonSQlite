@@ -1,8 +1,8 @@
 from criacaoBanco import *
 
 sql = """
-    DELETE FROM albums
-    WHERE artist = 'John Doe'
+    DELETE FROM albuns
+    WHERE artist = 'Andy Hunter'
     """
 cursor.execute(sql)
 conn.commit()

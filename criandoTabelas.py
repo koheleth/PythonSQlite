@@ -7,4 +7,6 @@ def criaTabelaAlbuns():
                     artist text,
                     release_date text,
                     publisher text,
-                    media_type text""")
+                    media_type text)""")
+
+criaTabelaAlbuns()

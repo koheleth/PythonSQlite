@@ -1,6 +1,6 @@
 from criacaoBanco import *
 sql = """
-        UPDATE albums
+        UPDATE albuns
         SET artist = 'John Doe'
         WHERE artist = 'Andy Hunter'
         """
